@@ -1,4 +1,4 @@
-# Library-Management-System
+
 # Library Management System
 A simple flask app to manage users along with mysql service
 
